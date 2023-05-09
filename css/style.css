@@ -300,3 +300,8 @@ background-color: white;
     opacity: 0.5;
     color: rgb(203, 202, 202);
 }
+.navbar-nav .nav-link.active {
+    background-color: var(--maincolor);
+    color: white;
+    border-radius: 25px;
+}
